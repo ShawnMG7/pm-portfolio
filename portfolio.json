@@ -1,0 +1,61 @@
+{
+  "projects": [
+    {
+      "title": "IES Sandbox Demos RPA Bots",
+      "description": "Hybrid RPA + API automation bridging gaps between QuickBase Pipelines and Salesforce Lightning, enabling secure and resilient UI-based automation where APIs were insufficient.",
+      "impact": "Saves 1,900+ hours annually, accelerates $10–28M in revenue, and scales to 23K external developers."
+    },
+    {
+      "title": "OpSys Hub Ecosystem Integration",
+      "description": "Evolved the OpSys Hub MVP into a scalable cross-platform system by integrating with ServiceNow, automating ingestion and routing of operational tickets.",
+      "impact": "Eliminated 100% of manual entry for this workflow and returned 25–30 hours annually in administrative time."
+    },
+    {
+      "title": "Unified Dispute Triage & RCA Framework",
+      "description": "Centralized six disparate intake routes into a governed dispute management ecosystem with full RCA tracking and cross-functional accountability.",
+      "impact": "Delivered 425 hours of selling time back to the Partner Org by reducing hunt time from 30 minutes to under 5 minutes."
+    },
+    {
+      "title": "Automation Prioritization & Governance Framework",
+      "description": "Defined ROI scoring logic and Go/No-Go decision matrix to prioritize automation investments based on revenue impact and speed to benefit.",
+      "impact": "Transitioned the org away from 'random acts of automation' toward a strategic, value-driven roadmap."
+    }
+  ],
+  "expertise": [
+    {
+      "title": "RPA & Automation Architecture",
+      "bullets": [
+        "Designed and deployed high-impact RPA bots using UiPath StudioX with secure SSO credential flows.",
+        "Engineered hybrid API + UI automation for complex Salesforce workflows."
+      ]
+    },
+    {
+      "title": "Data Engineering & Workflow Automation",
+      "bullets": [
+        "Automated cross-platform operations by integrating ServiceNow and QuickBase into OpSys.",
+        "Converted legacy Alteryx logic into scalable Python pipelines with secure token management."
+      ]
+    },
+    {
+      "title": "Governance, Prioritization & Strategy",
+      "bullets": [
+        "Created ROI-based automation prioritization framework for engineering investments.",
+        "Established RCA taxonomy and cross-functional dispute governance standards."
+      ]
+    },
+    {
+      "title": "AI & Intelligent Automation",
+      "bullets": [
+        "Developed LLM-assisted meeting summarization and data extraction workflows.",
+        "Exploring agentic AI, RAG, and intelligent tier-1 support prototypes."
+      ]
+    },
+    {
+      "title": "Leadership & Enablement",
+      "bullets": [
+        "Mentored Support Ops Analyst into technical system ownership using a Learn–Do–Teach approach.",
+        "Shifted team capability toward a Citizen Developer culture."
+      ]
+    }
+  ]
+}
