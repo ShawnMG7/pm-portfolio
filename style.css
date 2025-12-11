@@ -60,15 +60,6 @@ a {
   transition: transform 0.2s ease, box-shadow 0.2s ease;
 }
 
-.experience-card:hover,
-.expertise-card:hover,
-.project-card:hover,
-.contact-item:hover {
-  transform: translateY(-4px);
-  box-shadow: 0 6px 12px rgba(0,0,0,0.06),
-              0 14px 28px rgba(0,0,0,0.09);
-}
-
 /* Expertise Section */
 .expertise-card {
     background: #ffffff;
@@ -188,12 +179,6 @@ a {
   }
 }
 
-.section-title {
-  text-align: center;
-  font-size: 2rem;
-  margin-bottom: 40px;
-}
-
 .experience-grid {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
@@ -222,7 +207,7 @@ a {
 .experience-card .impact {
   margin-top: 12px;
   font-weight: 600;
-  color: #256d1b; /* deep green for impact metrics */
+  color: #ff9800; /* orange accent */
 }
 
 .contact {
@@ -262,6 +247,16 @@ a {
 .contact-item a {
   text-decoration: none;
   font-weight: 600;
+}
+
+.expertise-grid,
+.projects-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 24px;
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 0 20px 60px;
 }
 
 /* Optional Fade-In Animation */
