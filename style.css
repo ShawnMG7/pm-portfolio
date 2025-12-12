@@ -299,3 +299,17 @@ body {
 @keyframes fadeIn {
   to { opacity: 1; }
 }
+/* Career Highlights: force dark text inside cards */
+.experience-card {
+  color: #111827;
+}
+
+.experience-card h3 {
+  color: #111827;
+}
+
+.experience-card p,
+.experience-card li,
+.experience-card .description {
+  color: #374151;
+}
